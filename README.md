@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @williamsam2000
 - 👀 I’m interested in Backend Engineering
 - 🌱 I’m currently learning Native Android Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me :  Insta : @williamsaamuel
 
 <!---
